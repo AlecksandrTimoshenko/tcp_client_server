@@ -1,0 +1,8 @@
+
+Fsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Zsquid:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ÍÛ™N
+Dsquid:S1313".Make this IP "127.0.0.1" address configurable.(ÍÛ™N
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­ú€õúÿÿÿÿ
+Hsquid:S1481"1Remove this unused "inFromServer" local variable.(‚ž”ê
+Asquid:S00108")Either remove or fill this block of code.(”ý¾
+Wsquid:S1854"@Remove this useless assignment to local variable "inFromServer".(‚ž”ê
