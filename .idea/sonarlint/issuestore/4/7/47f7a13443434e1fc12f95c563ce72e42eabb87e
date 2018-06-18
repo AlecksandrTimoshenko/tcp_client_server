@@ -1,16 +1,0 @@
-
-Tsquid:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ
-bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(òµÞ®
-bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(öØ®¿
-gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ê¸ñôøÿÿÿÿ
-gsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(üœžèûÿÿÿÿ
-gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(‘š¸øÿÿÿÿ
-asquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(Óøæq
-T
-squid:S106+"9Replace this use of System.out or System.err by a logger.(èÙ«§ùÿÿÿÿ
-T
-squid:S106/"9Replace this use of System.out or System.err by a logger.(‚Çûÿÿÿÿ
-N
-squid:S106@"9Replace this use of System.out or System.err by a logger.(úˆíq
->squid:S1604"(Make this anonymous inner class a lambda(ù½ä>
